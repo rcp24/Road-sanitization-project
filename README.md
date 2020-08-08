@@ -24,7 +24,9 @@ Arduino is the brain of our project.
 L293D motor driver is controlling four DC motors which are used to run the car .
 
 Two servo motors are used :
-1.One to rotate the Spray left and right to sanitize road/shops/surfaces on both sides. 
+
+1.One to rotate the Spray left and right to sanitize road/shops/surfaces on both sides.
+
 2.Other to press the nob of Spray 
 >( A thread will be attached to servo such that the object tied to other end of thread will press the nob)
 
