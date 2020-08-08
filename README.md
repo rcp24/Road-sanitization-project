@@ -1,5 +1,5 @@
 # Road-sanitization-project
-In this pandemic situation , we need to sanitize our roads as well as daily contact surfaces on large scale , so here I have this quite simple road sanitization car!!
+In this pandemic situation , we need to sanitize our roads as well as daily contact surfaces on large scale , so here I have this quite simple automatic road sanitization car!!
 ## Components Used In Circuit
 * Arduino Uno R3
 * DC Motors (4)
@@ -11,7 +11,7 @@ In this pandemic situation , we need to sanitize our roads as well as daily cont
 * Resistors
 * Breadboard
 ## Working
-* **Arduino** is the brain of our project. 
+* **Arduino** is the brain of our project. Car is automatic because of inbuilt timer !! 
 * **L293D motor driver** is controlling four DC motors which are used to run the car .
 * Two **servo motors** are used :
   * One to rotate the Spray left and right to sanitize road/shops/surfaces on both sides.
