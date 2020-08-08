@@ -19,3 +19,6 @@ In this pandemic situation , we need to sanitize our roads as well as daily cont
     >( A thread will be attached to servo such that the object tied to other end of thread will press the nob)
 * Ultrasonic distance sensor is used basically to avoid obstacles !!
 * PIR sensor is used to detect human beings when they are in front of car and sanitize them. 
+## Progress
+Hardware part is yet to be done!!
+Code is here  
