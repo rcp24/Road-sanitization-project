@@ -25,7 +25,7 @@ Hardware part is yet to be done!!
 Code is here https://github.com/rcp24/Road-sanitization-project/blob/master/sanitizer_dispenser_car_1.ino 
 >_Code is self explanatory_
 
-Virual Circuit Simulation https://www.tinkercad.com/things/iRyqXmBqAzm-sanitizer-dispenser-car/editel 
+Virual Circuit Simulation https://www.tinkercad.com/things/iRyqXmBqAzm 
 
 Any ideas for improvement are always welcome !!
 
